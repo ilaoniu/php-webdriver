@@ -1,5 +1,5 @@
 {
-  "name": "php-webdriver/webdriver",
+  "name": "ilaoniu/webdriver",
   "type": "library",
   "description": "A PHP client for Selenium WebDriver. Previously facebook/webdriver.",
   "keywords": [
